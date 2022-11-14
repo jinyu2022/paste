@@ -1,5 +1,6 @@
 # 强制粘贴脚本
 对某些网页实现强制粘贴  
+
 请将仓库中的js文件复制到油猴中使用  
 
 ![tampermonkey](/docs/tampermonkey.png)  
